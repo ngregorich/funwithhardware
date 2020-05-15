@@ -1,4 +1,4 @@
-baseURL = "http://ngregorich.github.io/funwithhardware"
+baseURL = "http://ngregorich.github.io/funwithhardware/"
 languageCode = "en-us"
 title = "Fun With Hardware"
 theme = "hugo.386"
@@ -18,14 +18,14 @@ publishDir = "docs"
     copyrightname = "Nicholas Gregorich"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    copyrighturl = "http://ngregorich.github.io/funwithhardware"
+    copyrighturl = "http://ngregorich.github.io/funwithhardware/"
 
     # Show the "built on Hugo" disclaimer
     showhugo = true
 
     # Urls for social networks
     linkedin = "https://www.linkedin.com/in/nicholas-gregorich-4985754b/"
-    github = "https://github.com/ngregorich"
+    github = "https://github.com/ngregorich/"
 
     # Enables or disables the loading animations. false activates them. Default is false.
     loadfastload = false
