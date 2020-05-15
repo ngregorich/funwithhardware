@@ -14,13 +14,13 @@ categories: [
 
 It works!
 
-You can learn a little bit [about me](/about), first.
+You can learn a little bit [about me]({{< ref "about" >}}), first.
 
 # The Mission
 
 The year is 2020. There's this virus going around, but that's a story for another blog.
 
-We've all got some time on our hands, so I want to dig into what it is I want to be able to build, acknowledge the skills I do have, fill in the gaps I don't, and ship (which in this case would simply mean calling it done-ish).
+We've all got a little extra time on our hands, so I want to dig into what it is I want to be able to build, acknowledge the skills I do have, fill in the gaps I don't, and ship (which in this case would simply mean calling it done-ish).
 
 I thought I'd show up a couple decades late to the party and throw up a Hugo based statically generated blog to see if I can:
 
