@@ -1,4 +1,4 @@
-baseURL = "http://ngregorich.github.io/funwithhardware/"
+baseURL = "https://ngregorich.github.io/funwithhardware/"
 languageCode = "en-us"
 title = "Fun With Hardware"
 theme = "archie"

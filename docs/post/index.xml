@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Fun With Hardware</title>
-    <link>http://ngregorich.github.io/funwithhardware/post/</link>
+    <link>https://ngregorich.github.io/funwithhardware/post/</link>
     <description>Recent content in Posts on Fun With Hardware</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Nicholas Gregorich</copyright>
     <lastBuildDate>Thu, 14 May 2020 15:27:22 -0700</lastBuildDate>
     
-	<atom:link href="http://ngregorich.github.io/funwithhardware/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ngregorich.github.io/funwithhardware/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Blog Init</title>
-      <link>http://ngregorich.github.io/funwithhardware/post/blog-init/</link>
+      <link>https://ngregorich.github.io/funwithhardware/post/blog-init/</link>
       <pubDate>Thu, 14 May 2020 15:27:22 -0700</pubDate>
       
-      <guid>http://ngregorich.github.io/funwithhardware/post/blog-init/</guid>
+      <guid>https://ngregorich.github.io/funwithhardware/post/blog-init/</guid>
       <description>Hello world.
 It works!
 You can learn a little bit about me here.
