@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Fun With Hardware</title>
+    <link>http://ngregorich.github.io/funwithhardware/tags/</link>
+    <description>Recent content in Tags on Fun With Hardware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Nicholas Gregorich</copyright>
+    <lastBuildDate>Thu, 14 May 2020 19:54:32 -0700</lastBuildDate>
+    
+	<atom:link href="http://ngregorich.github.io/funwithhardware/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>http://ngregorich.github.io/funwithhardware/tags/about/</link>
+      <pubDate>Thu, 14 May 2020 19:54:32 -0700</pubDate>
+      
+      <guid>http://ngregorich.github.io/funwithhardware/tags/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
