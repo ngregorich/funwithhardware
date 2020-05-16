@@ -1,7 +1,7 @@
 baseURL = "http://ngregorich.github.io/funwithhardware/"
 languageCode = "en-us"
 title = "Fun With Hardware"
-theme="archie"
+theme = "archie"
 copyright = "© Nicholas Gregorich"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
