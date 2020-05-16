@@ -32,7 +32,7 @@ I'm a bit more than a decade into my career as a...well, I put the general in ge
         * R&D and some test including electrical, C, C++, (micro)python, mynewt RTOS, and lots of pandas plotting
 
 Visual learner? This bar graph of my interests show the sweet spot of my current skills and what I need to continue learning.
-![My skills](/funwithhardware/skillz-20200515a.png)
+![My skills](/skillz-20200515a.png)
 
 If you want to know more or to contact me, check out my [LinkedIn page](https://www.linkedin.com/in/nicholas-gregorich-4985754b/).
 
