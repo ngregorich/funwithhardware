@@ -16,7 +16,7 @@ draft: false
 
 It works!
 
-You can learn a little bit [about me]({{< ref "about" >}}), first.
+You can learn a little bit [about me here]({{< ref "about" >}}).
 
 # The Mission
 

@@ -31,9 +31,10 @@ I'm a bit more than a decade into my career as a...well, I put the general in ge
     6. Continued trying to help people quit smoking doing electrical and firmware at a lil vape start up
         * R&D and some test including electrical, C, C++, (micro)python, mynewt RTOS, and lots of pandas plotting
 
-Visual learner? This bar graph of my interests show the sweet spot of my current skills and what I need to continue learning.
+Visual learner? Try this bar graph on for size. Tall bars are where I am awesome. Shorter bars are where I'd like to be awesome.
+
 ![My skills](/funwithhardware/skillz-20200515a.png)
 
-If you want to know more or to contact me, check out my [LinkedIn page](https://www.linkedin.com/in/nicholas-gregorich-4985754b/).
-
 I guess you could call this relatively rare breed a *full stack hardware engineer*. I know enough to be dangerous and build parts in SolidWorks, do schematics and layout in Altium, firmware lately focused on bare metal C on STM32, and collect a whole lot of data and make it perdy in python / pandas / matplotlib.
+
+If you want to know more or to contact me, check out my [LinkedIn page](https://www.linkedin.com/in/nicholas-gregorich-4985754b/).
