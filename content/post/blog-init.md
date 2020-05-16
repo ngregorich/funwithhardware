@@ -10,6 +10,8 @@ categories: [
     "Blog",
 ]
 
+draft: false
+
 ---
 
 It works!
